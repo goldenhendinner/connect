@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "Keychain",
+        "description": "20 bonuses",
+        "imageUrl": "https://i.ibb.co/1HhbnPC/brelok.png"
+    },
+    {
+        "id": 2,
+        "title": "Keychain",
+        "description": "20 bonuses",
+        "imageUrl": "https://i.ibb.co/TDqm4XvY/brelok2.png"
+    },
+    {
+        "id": 3,
+        "title": "Keychain",
+        "description": "30 bonuses",
+        "imageUrl": "https://i.ibb.co/chf3XCZY/egg1.png"
+    }
+    {
+        "id": 4,
+        "title": "Keychain",
+        "description": "30 bonuses",
+        "imageUrl": "https://i.ibb.co/5WnV3vd4/egg2.png"
+    }
+     {
+        "id": 5,
+        "title": "Rubber figurine",
+        "description": "30 bonuses",
+        "imageUrl": "<https://i.ibb.co/sJM1xCRs/rezintoy.png"
+    }
+    {
+        "id": 6,
+        "title": "Soft toy 1",
+        "description": "40 bonuses",
+        "imageUrl": "https://i.ibb.co/1YHmqB3g/softtoy.png"
+    }
+    {
+        "id": 7,
+        "title": "Soft toy 2",
+        "description": "40 bonuses",
+        "imageUrl": "https://i.ibb.co/755vyqq/softtoy2.png"
+    }
+    {
+        "id": 8,
+        "title": "Soft toy 3",
+        "description": "40 bonuses",
+        "imageUrl": "https://i.ibb.co/tTSY6M2s/softtoy3.png"
+    }
+
+
+
+
+    
+]
