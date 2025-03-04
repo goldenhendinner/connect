@@ -31,19 +31,19 @@
     },
     {
         "id": 6,
-        "title": "Soft toy 1",
+        "title": "Fluffy toy 1",
         "description": "40 bonuses",
         "imageUrl": "https://i.ibb.co/1YHmqB3g/softtoy.png"
     },
     {
         "id": 7,
-        "title": "Soft toy 2",
+        "title": "Fluffy toy 2",
         "description": "40 bonuses",
         "imageUrl": "https://i.ibb.co/755vyqq/softtoy2.png"
     },
     {
         "id": 8,
-        "title": "Soft toy 3",
+        "title": "Fluffy toy 3",
         "description": "40 bonuses",
         "imageUrl": "https://i.ibb.co/tTSY6M2s/softtoy3.png"
     }
